@@ -1,12 +1,15 @@
+
 <h1 align="center">Hi 👋, I'm VIGNESH N</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/fcf9f1_183add7b26954250a69bc0ac13f8ca50~mv2.gif/v1/fill/w_1600,h_900,al_c,q_90/file.jpg">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh2718&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh2718" /> </p>
 
 - 🌱 I’m currently learning **🌐Data Analytics**
 
 - 🔭My current Project [My-DAIRY](https://github.com/vignesh2718/myDiary)
+
+- Connect me with : [https://www.linkedin.com/in/vigneshn27/](https://www.linkedin.com/in/vigneshn27/)
 
 - 📫 How to reach me **vigneshn2718@gmail.com**
 
@@ -14,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vigneshn27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vigneshn27/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
