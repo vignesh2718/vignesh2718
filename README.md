@@ -9,9 +9,7 @@
 
 - 🔭My current Project [My-DAIRY](https://github.com/vignesh2718/myDiary)
 
-- Connect me with : [https://www.linkedin.com/in/vigneshn27/](https://www.linkedin.com/in/vigneshn27/)
-
-- 📫 How to reach me **vigneshn2718@gmail.com**
+- 📫 How to reach me:  **vigneshn2718@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BG9ng_fsppGglpil0rrwMjosbPEqasg6/view?usp=sharing](https://drive.google.com/file/d/1BG9ng_fsppGglpil0rrwMjosbPEqasg6/view?usp=sharing)
 
