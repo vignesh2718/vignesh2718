@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh2718&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh2718" /> </p>
 
-- 🌱 I’m currently learning **🌐Data Analytics**
+- 🌱 I’m currently learning **<a href="https://iconscout.com/icons/angularjs" target="_blank">Angularjs Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">IconScout</a>Angular JS**
 
 - 🔭My current Project [My-DAIRY](https://github.com/vignesh2718/myDiary)
 
