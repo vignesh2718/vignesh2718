@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh2718&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh2718" /> </p>
 
-- 🌱 I’m currently learning **Angular JS**
-
-- 🔭My current Project [My-DAIRY](https://github.com/vignesh2718/myDiary)
+- 🌱 I’m currently learning **GraphQL**
 
 - 📫 How to reach me:  **vigneshn2718@gmail.com**
 
